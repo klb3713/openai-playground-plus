@@ -4,4 +4,6 @@ export const APP_DESCRIPTION =
 
 export const OPENAI_API_KEY = 'OPENAI_API_KEY';
 
+export const OPENAI_API_BASE_URL = 'https://api.openai.com/v1';
+
 export const DEFAULT_SYSTEM_INSTRUCTIONS = 'You are a helpful assistant';
